@@ -17,10 +17,10 @@ function draw() {
     h = h + 3;
   }
   
-  if (h > 50) {
+  if (h > 15) {
     noStroke();
     fill(255);
-    rect(-1, -1, width+2, height-15);
+    rect(-1, -1, width+2, height-10);
     h = 10;
   }
   
