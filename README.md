@@ -40,15 +40,19 @@ Loops and Arrays questions:
 
 1) If an array has 5 elements in it, what are the valid index values for the array? (Hint: what's always the first index value?)
 
-
+[0, 1, 2, 3, 4]
 
 2) What is the difference between a for loop and a while loop?
 
-
+A while loop will loop until a condition is met.
+A for loop will loop/run for a set number of times.
 
 3) Use Google or your favorite search website to figure out what the three parts of a for loop are called in JavaScript.
 
-
+Initializer
+Test Condition
+Updater
 
 4) How does code refer to the number of elements (aka "entries") in an array? (Hint: it shows up in the code you modified!)
 
+Through the variables.
